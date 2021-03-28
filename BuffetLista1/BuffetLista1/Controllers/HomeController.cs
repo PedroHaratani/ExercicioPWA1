@@ -35,7 +35,7 @@ namespace BuffetLista1.Controllers
         {
             return View();
         }
-        public IActionResult Recovey() 
+        public IActionResult Recovery() 
         {
             return View();
         }
